@@ -43,9 +43,7 @@
 <br>
 
 ## 😸 Sobre ##
-
-O projeto é uma reformulação da aplicação da NLW Setup, como melhorias nos mecanismos e funcionalidades- patrocinado pela <a href="https://rocketseat.com.br/"> Rocketseat</a>.
-Neste evento vimos como usar tecnologias atuais e poderosas na construção de sistemas simples ou avançados,mas para realmente ser um projeto funcional precisava de um sistema de gerenciamento de sessões do usuário, exclusão de dados, conclusão de hábitos passados,e principalmente que outras pessoas podessem se beneficiar da aplicação. E esse é o objetivo do desenvolvedor fazer um produto escalável que possa ser melhorado. Não foi fácil fazer tais implementações. principalmente a integração da aplicaçãp com o BD online (Vercel KV). A parte web foi desenvolvida com (ReactJs), server(Backend com Node).
+ Tela de login responsiva desenvolvida utilizando a poderosa biblioteca React. Esta tela de login foi cuidadosamente projetada para proporcionar uma experiência de usuário suave e intuitiva, independentemente do dispositivo utilizado.
 
 ## Telas da aplicação
 
