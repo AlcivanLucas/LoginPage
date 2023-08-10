@@ -1,5 +1,5 @@
 <div align="center" id="top">
-  <img src="./.github/inicial.png" alt="Behaviors" />
+  <img src="./.github/Login.png" alt="Tela de Login " />
 
   &#xa0;
 
@@ -47,114 +47,85 @@
 
 ## Telas da aplicação
 
-### Tela Home Desktop ##
+### Tela Login Desktop ##
 
-<img src="./.github/inicial.png" alt="Imagem da tela Home Desktop" />
+<img src="./.github/Login.png" alt="Imagem da tela de login" />
 
-## Tela Novo Hábito Desktop ##
+## Tela Cadastro Desktop ##
 
-<img src="./.github/NewHabit.png" alt="Imagem da tela Novo Habito" />
+<img src="./.github/Signup.png" alt="Imagem da tela de Cadastro" />
 
-## Tela Login Desktop ##
+### Tela Login Mobile ##
 
-<img src="./.github/Login.png" alt="Imagem da tela de Login" />
+<img src="./.github/LoginMobile.png" alt="Imagem da tela de login Mobile" />
 
-## Tela de Cadastro de novo usuário Desktop ##
+## Tela de cadastro mobile ##
 
-<img src="./.github/Signup.png" alt="Imagem da tela de Cadastro de novo usuário" />
+<img src="./.github/SignupMobile.png" alt="Imagem da tela de Cadastro mobile" />
+
 
 ## :skateboard: Funcionalidades ##
 
-:heavy_check_mark: Criar um novo Hábito\
 :heavy_check_mark: Iniciar sessão do usuário\
 :heavy_check_mark: Cadastrar novos usuários\
-:heavy_check_mark: Deletar hábitos\
-:heavy_check_mark: Mostrar tela home com hábitos criados e progresso\
-:heavy_check_mark: Marcar hábito como completo ou desmarcalo\
+:heavy_check_mark: Rotas adaptativas\
+:heavy_check_mark: Sistema de gerenciamento de sessão local ou remoto\
 :heavy_check_mark: Aplicação responsiva
 
 ## :rocket: Tecnologias ##
 
 Abaixo poderá ter acesso às principais tecnologias usadas neste projeto
 
-- [ReactNative](https://reactnative.dev/)
-- [NativeBase](https://nativebase.io/)
-- [Expo](https://expo.dev/)
-- [AndroidStudio](https://developer.android.com/studio)
+
 - [TypeScript](https://www.typescriptlang.org/)
 - [Svg-Transformer](https://github.com/kristerkari/react-native-svg-transformer)
 - [Phosphor Icons](https://github.com/duongdev/phosphor-react-native)
 - [Prisma](https://www.prisma.io/)
 - [Fastfy](https://www.fastify.io/)
 - [Tailwindcss](https://tailwindcss.com/)
-- [NativeWind](https://www.nativewind.dev/)
 - [Radix-ui](https://www.radix-ui.com/)
-- [React-native-vector-icons](https://oblador.github.io/react-native-vector-icons/)
-- [React-Native-Reanimated](https://docs.swmansion.com/react-native-reanimated/)
-
 
 
 ## :white_check_mark: Requisitos para rodar a aplicação ##
-
-Antes de iniciar :checkered_flag:, você precisa ter [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalado em seu sistema operacional, a CLI do Expo e o app Expo Go.Não sabe como fazer isso? Criamos abaixo uma documentação para ajudar vocês nesse processo [CLIdoExpo](https://efficient-sloth-d85.notion.site/Instalando-Expo-a4042eaea57d40fabeeaa2e462424ff0).
 
 ## :checkered_flag: Iniciand Frontend Mobile  ##
 
 ```bash
 # Clone este projeto
-$ git clone https://github.com/juniorvilas/nlw-setup.git
+$ git clone https://github.com/AlcivanLucas/LoginPage.git
 
 # Acesse
-$ cd/nlw-setup/mobile
+$ cd/LoginPage/
 
-# Instale as dependências
-$ npm i
-
-# Execute o projeto
-$ npx expo start
 ```
 
 ## :checkered_flag: Iniciando Frontend Web  ##
 
 ```bash
 # Clone este projeto
-$ git clone https://github.com/juniorvilas/nlw-setup.git
+$ git clone https://github.com/AlcivanLucas/LoginPage.git
 
 # Acesse
-$ cd/nlw-setup/web
+$ cd/LoginPage
 
 # Instale as dependências
 $ npm i
 
 # Execute o projeto
 $ npm run dev
+
+#Isso ira inicializar o localhost em sua maquina
 ```
 
-## :checkered_flag: Iniciando Backend (server)  ##
-
-```bash
-# Clone este projeto
-$ git clone https://github.com/juniorvilas/nlw-setup.git
-
-# Acesse
-$ cd/nlw-setup/server
-
-# Instale as dependências
-$ npm i
-
-# Execute o projeto
-$ npm run dev
-```
 
 
 
 ## 📡 Material complementar para o projeto ##
 
-- [Wallpapers-NLW-SETUP](https://drive.google.com/drive/folders/1F5ghUWdlaC_1IKFxkNUgGcTGqpqdpR29)
-- [Notion-Trilha-Ignite](https://efficient-sloth-d85.notion.site/Trilha-Ignite-562e3516c7574fb7be75ff01fbb41f54)
+
 ## :memo: Licença ##
 
-Este projeto está sob licença MIT. Para mais informações acesse [LICENSE](LICENSE.md).
+Este projeto está sob licença MIT. Para mais informações acesse [LICENSE]().
 
 Feito com :heart: por <a href="https://github.com/AlcivanLucas" target="_blank">Alcivan Lucas</a>
 
