@@ -97,6 +97,9 @@ $ git clone https://github.com/AlcivanLucas/LoginPage.git
 # Acesse
 $ cd/LoginPage/
 
+# Execute o projeto
+$ npm run dev
+
 ```
 
 ## :checkered_flag: Iniciando Frontend Web  ##
